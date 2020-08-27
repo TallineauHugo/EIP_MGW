@@ -1,0 +1,234 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from [:file_picker] /home/hugo/projects/MGW/belmont/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:shared_preferences] /home/hugo/projects/MGW/belmont/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] /home/hugo/projects/MGW/belmont/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [:url_launcher] /home/hugo/projects/MGW/belmont/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:flutter_plugin_android_lifecycle] /home/hugo/projects/MGW/belmont/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:uni_links] /home/hugo/projects/MGW/belmont/build/uni_links/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_web] /home/hugo/projects/MGW/belmont/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/cd90c0ce869e956f890320864ad86906/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/49f5db08bab4804f3ecae91890046f77/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/dc6645eccdb127e6b2d651b23e4ba605/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/00b0d2a40254579c2303315052ba2e76/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/43fc2e715674848bb05aa9a494cd7b35/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/0737df269316eb33110c94431c49e2d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/a64d14450330b0081060e6d036441cf7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/e650347bd5a84af85d3b9d592e852263/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/f0469af8596817e49dfa3650d6e5e83d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/927389d65e87e1704cb98c0c1b2e065d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/c05390eed4a7fc24cb2abcfb7edee6f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /home/hugo/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/b5dc37f3b43c75e6e980d0c0e20184ca/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/6457223b5231ccf5724b2a272c8acd8e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/73dc5cb66e2281a0b216aa02e5c02e92/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/41a7a8b8e5c17cd25603b85693eb3482/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/d0e8df10d505569deb18659b7f80b1a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/28023d11678b1564b52f0ec0d9246a0e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/bba6ed2d5e829fcb13d7ebfe98ecf9e6/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/d0f7ac83f67cb807810b362de1e3cf5f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/6d048aa0d9a2eea33b70a253840023dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/463db07091725cb71c4ffd6dc25782bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/1ca6359493fb984719a19f97d911b4eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/e86927928b47d600bfb3e846fd6ed695/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:2:5-44
+		INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:9:5-44:19
+MERGED from [:image_picker] /home/hugo/projects/MGW/belmont/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /home/hugo/projects/MGW/belmont/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-20:19
+MERGED from [:url_launcher] /home/hugo/projects/MGW/belmont/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /home/hugo/projects/MGW/belmont/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.0.2] /home/hugo/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/b5dc37f3b43c75e6e980d0c0e20184ca/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /home/hugo/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/b5dc37f3b43c75e6e980d0c0e20184ca/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/bba6ed2d5e829fcb13d7ebfe98ecf9e6/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/bba6ed2d5e829fcb13d7ebfe98ecf9e6/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /home/hugo/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/b5dc37f3b43c75e6e980d0c0e20184ca/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:11:9-28
+	android:icon
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:10:9-57
+activity#com.flutter.my_garden_watcher.MainActivity
+ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:13:9-43:20
+	android:launchMode
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:29:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:www.mygardenwatcher.fr+data:pathPrefix:/reset-password+data:scheme:http
+ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:32:13-41:29
+action#android.intent.action.VIEW
+ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:34:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:35:17-78
+	android:name
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:35:27-75
+data
+ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:37:17-39:60
+	android:host
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:38:21-58
+	android:scheme
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:37:23-44
+	android:pathPrefix
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml:39:21-57
+uses-sdk
+INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml
+MERGED from [:file_picker] /home/hugo/projects/MGW/belmont/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] /home/hugo/projects/MGW/belmont/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /home/hugo/projects/MGW/belmont/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /home/hugo/projects/MGW/belmont/build/shared_preferences/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /home/hugo/projects/MGW/belmont/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /home/hugo/projects/MGW/belmont/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /home/hugo/projects/MGW/belmont/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /home/hugo/projects/MGW/belmont/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /home/hugo/projects/MGW/belmont/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /home/hugo/projects/MGW/belmont/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:uni_links] /home/hugo/projects/MGW/belmont/build/uni_links/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:uni_links] /home/hugo/projects/MGW/belmont/build/uni_links/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_web] /home/hugo/projects/MGW/belmont/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_web] /home/hugo/projects/MGW/belmont/build/url_launcher_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/cd90c0ce869e956f890320864ad86906/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/cd90c0ce869e956f890320864ad86906/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/49f5db08bab4804f3ecae91890046f77/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/49f5db08bab4804f3ecae91890046f77/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/dc6645eccdb127e6b2d651b23e4ba605/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/dc6645eccdb127e6b2d651b23e4ba605/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/00b0d2a40254579c2303315052ba2e76/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/00b0d2a40254579c2303315052ba2e76/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/43fc2e715674848bb05aa9a494cd7b35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/43fc2e715674848bb05aa9a494cd7b35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/0737df269316eb33110c94431c49e2d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/0737df269316eb33110c94431c49e2d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/a64d14450330b0081060e6d036441cf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/a64d14450330b0081060e6d036441cf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/e650347bd5a84af85d3b9d592e852263/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/e650347bd5a84af85d3b9d592e852263/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/f0469af8596817e49dfa3650d6e5e83d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/f0469af8596817e49dfa3650d6e5e83d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/927389d65e87e1704cb98c0c1b2e065d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/927389d65e87e1704cb98c0c1b2e065d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/c05390eed4a7fc24cb2abcfb7edee6f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/c05390eed4a7fc24cb2abcfb7edee6f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/hugo/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/b5dc37f3b43c75e6e980d0c0e20184ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/hugo/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/b5dc37f3b43c75e6e980d0c0e20184ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/6457223b5231ccf5724b2a272c8acd8e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/6457223b5231ccf5724b2a272c8acd8e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/73dc5cb66e2281a0b216aa02e5c02e92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/73dc5cb66e2281a0b216aa02e5c02e92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/41a7a8b8e5c17cd25603b85693eb3482/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/41a7a8b8e5c17cd25603b85693eb3482/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/d0e8df10d505569deb18659b7f80b1a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/d0e8df10d505569deb18659b7f80b1a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/28023d11678b1564b52f0ec0d9246a0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/28023d11678b1564b52f0ec0d9246a0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/bba6ed2d5e829fcb13d7ebfe98ecf9e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/bba6ed2d5e829fcb13d7ebfe98ecf9e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/d0f7ac83f67cb807810b362de1e3cf5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/d0f7ac83f67cb807810b362de1e3cf5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/6d048aa0d9a2eea33b70a253840023dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/6d048aa0d9a2eea33b70a253840023dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/463db07091725cb71c4ffd6dc25782bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/463db07091725cb71c4ffd6dc25782bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/1ca6359493fb984719a19f97d911b4eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/1ca6359493fb984719a19f97d911b4eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/e86927928b47d600bfb3e846fd6ed695/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/hugo/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/e86927928b47d600bfb3e846fd6ed695/AndroidManifest.xml:20:5-44
+INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hugo/projects/MGW/belmont/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/hugo/projects/MGW/belmont/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /home/hugo/projects/MGW/belmont/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:file_picker] /home/hugo/projects/MGW/belmont/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+MERGED from [:image_picker] /home/hugo/projects/MGW/belmont/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+MERGED from [:image_picker] /home/hugo/projects/MGW/belmont/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:file_picker] /home/hugo/projects/MGW/belmont/build/file_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] /home/hugo/projects/MGW/belmont/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] /home/hugo/projects/MGW/belmont/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /home/hugo/projects/MGW/belmont/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /home/hugo/projects/MGW/belmont/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /home/hugo/projects/MGW/belmont/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /home/hugo/projects/MGW/belmont/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /home/hugo/projects/MGW/belmont/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /home/hugo/projects/MGW/belmont/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] /home/hugo/projects/MGW/belmont/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] /home/hugo/projects/MGW/belmont/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /home/hugo/projects/MGW/belmont/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /home/hugo/projects/MGW/belmont/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /home/hugo/projects/MGW/belmont/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /home/hugo/projects/MGW/belmont/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/hugo/projects/MGW/belmont/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/hugo/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/f70fe3ee79e96ac1437fe9a70952c81b/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/hugo/projects/MGW/belmont/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/hugo/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/f70fe3ee79e96ac1437fe9a70952c81b/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/hugo/projects/MGW/belmont/build/url_launcher/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/hugo/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/f70fe3ee79e96ac1437fe9a70952c81b/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/hugo/projects/MGW/belmont/build/url_launcher/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/hugo/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/f70fe3ee79e96ac1437fe9a70952c81b/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/hugo/projects/MGW/belmont/build/url_launcher/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/hugo/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/f70fe3ee79e96ac1437fe9a70952c81b/res/layout/notification_template_part_chronometer.xml"
+    }
+]
